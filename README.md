@@ -1,5 +1,5 @@
 # web scraping.
-Dans ce projet, on réalise un script en **Python** qui permet de **scraper les données des matchs (score, date,...) de la Coupe du Monde**.  
+Dans ce projet, on réalise un script en **Python** qui permet de **scraper les données des matchs (score, date,...) de la Coupe du Monde des clubs**.  
 L’objectif est de **faciliter l’accès aux données** afin de pouvoir les **analyser** plus facilement.
 
 ---
