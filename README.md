@@ -26,7 +26,7 @@ L’objectif est de **faciliter l’accès aux données** afin de pouvoir les **
 ----
 
 ## Comment on peux l'utiliser 
-1. Choisir l’année de la compétition (ex : en notre cas 2025) ![Capture d’écran](./Anné.png)
+1. Choisir l’année de la compétition (ex : en notre cas 2025) ![Capture d’écran](./anné.png)
 2. Changer le jour et le mois de début de la compétition (ex : jour=15, mois=6) ![Capture d’écran](./date.png)
 
 ----
